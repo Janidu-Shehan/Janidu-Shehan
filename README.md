@@ -30,7 +30,7 @@
 <img src="https://skillicons.dev/icons?i=autocad" height="40" alt="autocad logo" />
 <img src="./solidworks.png" alt="Solidworks" width="50" height="50"/>
 <img src="./Ansys.png" alt="Ansys" width="50" height="50"/>
-<img src="./Carsim.png" alt="Carsim" width="50" height="50"/>
+<img src="./CarSim.png" alt="Carsim" width="50" height="50"/>
 <img src="./Fluidsim.png" alt="Fluidsim" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="50" height="50"/>
