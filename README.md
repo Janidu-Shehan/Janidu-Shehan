@@ -21,18 +21,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/OpenCV_Logo_with_text_svg_version.svg" alt="OpenCV" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=opencv" height="40" alt="opencv logo"  />
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" alt="jupyter logo"  />
+  <img src="https://skillicons.dev/icons?i=autocad" height="40" alt="autocad logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Simulink_Logo.png" alt="Simulink" width="50" height="50"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/3215/3215556.png" alt="CarSim" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Ansys_logo.png" alt="Ansys" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/en/0/00/Altium_Designer_Logo.png" alt="Altium" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/SolidWorks_Logo.png" alt="SolidWorks" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Robot_Operating_System_logo.svg" alt="ROS" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
+
 </p>
 
 
